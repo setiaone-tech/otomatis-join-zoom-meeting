@@ -1,3 +1,3 @@
-link,start-time,end-time,day
-https://zoom.us/blalalala,07:00,09:00,Mon  #example
-https://zoom.us/lalalalal,10:00,12:00,Fri
+day,start-time,end-time,link
+Mon,07:00,09:00,https://zoom.us/blalalala,
+Fri,10:00,12:00,https://zoom.us/lalalalal,
